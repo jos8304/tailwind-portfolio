@@ -8,7 +8,7 @@ const Experience = () => {
       <div className="py-16 grid lg:grid-cols-2 xl:grid-cols-3 gap-8">
         <article className="experience">
           <h2 className="text-xl tracking-wide font-medium">
-            Project Engineer, Nexien Inc
+            Project / Software Engineer, Nexien Inc
           </h2>
           <p>
             <strong className="text-emerald-500">August 2021 – Present</strong>
@@ -42,7 +42,7 @@ const Experience = () => {
         </article>
         <article className="experience">
           <h2 className="text-xl tracking-wide font-medium">
-            IT Associate, Rhee Bros Inc
+            System Administrator, Rhee Bros Inc
           </h2>
           <p>
             <strong className="text-emerald-500">
@@ -81,8 +81,8 @@ const Experience = () => {
         </article>
         <article className="experience">
           <h2 className="text-xl tracking-wide font-medium">
-            IT Staff, Korean-American Scientists and Engineers Association
-            (KSEA)
+            Web Developer, Korean-American Scientists and Engineers
+            Association(KSEA)
           </h2>
           <p>
             <strong className="text-emerald-500">
