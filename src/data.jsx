@@ -48,7 +48,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "../assets/coplate.jpg",
+    img: "./src/assets/coplate.jpg",
     url: "https://jyou8304.pythonanywhere.com/",
     github: "https://github.com/jos8304/django_coplate2",
     title: "first project",
@@ -57,7 +57,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "../assets/codeitmall.jpg",
+    img: "./src/assets/codeitmall.jpg",
     url: "https://codeitmall-azure.vercel.app/",
     github: "https://github.com/jos8304/codeitmall",
     title: "second project",
@@ -66,7 +66,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "../assets/shortit.jpg",
+    img: "./src/assets/shortit.jpg",
     url: "https://shortit-azure.vercel.app/",
     github: "https://github.com/jos8304/shortit",
     title: "third project",
