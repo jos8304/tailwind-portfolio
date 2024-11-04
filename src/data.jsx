@@ -8,9 +8,9 @@ import {
   FaJs,
   FaReact,
 } from "react-icons/fa";
-import shortit from "./src/shortit.jpg";
-import coplate from "./src/coplate.jpg";
-import codeitmall from "./src/codeitmall.jpg";
+import shortit from "./assets/shortit.jpg";
+import coplate from "./assets/coplate.jpg";
+import codeitmall from "./assets/codeitmall.jpg";
 
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
