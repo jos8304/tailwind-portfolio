@@ -8,6 +8,9 @@ import {
   FaJs,
   FaReact,
 } from "react-icons/fa";
+import shortit from "./src/shortit.jpg";
+import coplate from "./src/coplate.jpg";
+import codeitmall from "./src/codeitmall.jpg";
 
 export const links = [
   { id: nanoid(), href: "#home", text: "home" },
@@ -48,7 +51,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "./src/assets/coplate.jpg",
+    img: coplate,
     url: "https://jyou8304.pythonanywhere.com/",
     github: "https://github.com/jos8304/django_coplate2",
     title: "first project",
@@ -57,7 +60,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "./src/assets/codeitmall.jpg",
+    img: codeitmall,
     url: "https://codeitmall-azure.vercel.app/",
     github: "https://github.com/jos8304/codeitmall",
     title: "second project",
@@ -66,7 +69,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "./src/assets/shortit.jpg",
+    img: shortit,
     url: "https://shortit-azure.vercel.app/",
     github: "https://github.com/jos8304/shortit",
     title: "third project",
